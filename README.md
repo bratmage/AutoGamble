@@ -1,3 +1,5 @@
+## Project Depreciated. Viva la Turtle 🐢
+
 ## AutoGamble for Turtle WoW
 
 Requires you to actually be liked the the Bloodsails. Pirates, ahoy.
